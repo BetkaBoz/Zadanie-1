@@ -5,3 +5,5 @@ Pri zápise študentov do prvého ročníka je potrebné prezentovať viacero 
 Cieľ práce: Vytvoriť mobilnú aplikáciu určenú pre študentov prvého ročníka na zápis na štúdium
 Požiadavky na obsah podľa charakteru práce: aplikačná - popis riešeného problému, návrh softvéru (modely, ..), metodika vývoja, implementácia, popis vytvoreného softvéru, testovanie.
 Požiadavky na vedomosti a zručnosti študenta: pokročilé vedomosti pri tvorbe mobilných aplikácií, schopnosť študovať anglické zdroje
+
+Akademický rok obhajoby: 2020/2021
