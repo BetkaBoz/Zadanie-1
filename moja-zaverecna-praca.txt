@@ -1,1 +1,7 @@
 Mobilná aplikácia pre zápis študentov
+
+Atonácia:
+Pri zápise študentov do prvého ročníka je potrebné prezentovať viacero rôznorodých informácií, ktoré budú študenti potrebovať pri štúdiu a s tým sú spojené aj ich povinnosti a ďalšie aktivity (napr. prihlasovanie sa na jednotlivé predmety, zaraďovanie sa do skupín a pod.) Bolo by vhodné, aby boli všetky tieto informácie zhromaždené na jednom mieste, kde si ich môže každý študent jednoducho naštudovať a vykonať potrebné aktivity, aplikácia dá študentom odpoveď na najčastejšie kladené otázky.
+Cieľ práce: Vytvoriť mobilnú aplikáciu určenú pre študentov prvého ročníka na zápis na štúdium
+Požiadavky na obsah podľa charakteru práce: aplikačná - popis riešeného problému, návrh softvéru (modely, ..), metodika vývoja, implementácia, popis vytvoreného softvéru, testovanie.
+Požiadavky na vedomosti a zručnosti študenta: pokročilé vedomosti pri tvorbe mobilných aplikácií, schopnosť študovať anglické zdroje
